@@ -8,7 +8,7 @@ Professional experience with the technologies listed in the **toolbox** below.
 
 ---
 
-:toolbox: &nbsp;&nbsp;Technologies
+### :toolbox: &nbsp;&nbsp;Technologies
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
@@ -64,7 +64,7 @@ Also, have experience in submitting mobile applications to app stores such as Go
 
 ---
 
-:open_book: &nbsp;&nbsp;Latest Blog Posts
+### :open_book: &nbsp;&nbsp;Latest Blog Posts
 
 - [Camaro ile XML to JSON](https://canercanbaz.medium.com/camaro-ile-xml-to-json-15b41cbb38db)
 - [Cloudflare ve Nginx ile SSL Aktifleştirme](https://canercanbaz.medium.com/cloudflare-ve-nginx-ile-ssl-aktifle%C5%9Ftirme-2207ab7f717b)
@@ -76,7 +76,7 @@ Also, have experience in submitting mobile applications to app stores such as Go
 
 ---
 
-:link: &nbsp;&nbsp;Other Links
+### :link: &nbsp;&nbsp;Other Links
 
 - [Personal Blog](https://cnrcnbz.com)
 - [GitLab](https://gitlab.com/canercanbaz)
