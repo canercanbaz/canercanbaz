@@ -11,7 +11,8 @@ Professional experience with the technologies listed in the **toolbox** below.
 ### :toolbox: &nbsp;&nbsp;Technologies
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="60" height="60"/>
@@ -25,8 +26,10 @@ Professional experience with the technologies listed in the **toolbox** below.
 
 - HTML/CSS
 - JavaScript
+- TypeScript
 - Node.js
   - Express.js
+  - Nest.js
   - RESTful API
   - GraphQL Query Language
   - Asynchronous Programming
@@ -38,7 +41,7 @@ Professional experience with the technologies listed in the **toolbox** below.
 - .NET & .NET Core
   - C# Programming Language
   - Entity Framework
-  - Windows Forms with DevExpress
+  - Windows Forms
 - React.js / Native
   - Redux
   - Hooks
@@ -48,17 +51,20 @@ Professional experience with the technologies listed in the **toolbox** below.
 - E-commerce
   - WooCommerce 
 - Cloud Platforms
-  - Amazon Web Services
+  - Amazon Web Services (EC2, Lightsail, EC2, S3 Bucket, CloudWatch)
   - Firebase
   - Heroku
   - Netlify 
 - Production Tools
   - Nginx
   - PM2 
+- Container Technology
+  - Docker 
 - Databases
   - MySQL
   - SQL Server
-  - MongoDB  
+  - MongoDB
+  - Redis  
 
 Also, have experience in submitting mobile applications to app stores such as Google Play, App Store and AppGallery.
 
