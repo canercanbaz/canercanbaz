@@ -76,7 +76,7 @@ Also, have experience in submitting mobile applications to app stores such as Go
 
 ### :open_book: &nbsp;&nbsp;Latest Blog Posts
 
-- [Camaro ile XML to JSON](https://canercanbaz.medium.com/camaro-ile-xml-to-json-15b41cbb38db)
+- [Fix Node.js Puppeteer Launch Problem on M1 Macs with Docker](https://canercanbaz.dev/fix-node-js-puppeteer-docker-image-build-problem-on-m1-macs/)
 - [Cloudflare ve Nginx ile SSL Aktifleştirme](https://canercanbaz.medium.com/cloudflare-ve-nginx-ile-ssl-aktifle%C5%9Ftirme-2207ab7f717b)
 - [Mongoose ile Birden Fazla Sunucudan Veri Almak (Express.js)](https://canercanbaz.medium.com/mongoose-ile-birden-fazla-sunucudan-veri-almak-express-js-bacb96219838)
 - [React Fragment Kullanımı](https://canercanbaz.medium.com/react-fragment-kullan%C4%B1m%C4%B1-c96792eddb58)
