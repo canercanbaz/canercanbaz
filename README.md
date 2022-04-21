@@ -76,12 +76,12 @@ Also, have experience in submitting mobile applications to app stores such as Go
 
 ### :open_book: &nbsp;&nbsp;Latest Blog Posts
 
-- [Fix Node.js Puppeteer Launch Problem on M1 Macs with Docker](https://canercanbaz.dev/fix-node-js-puppeteer-docker-image-build-problem-on-m1-macs/)
-- [Cloudflare ve Nginx ile SSL Aktifleştirme](https://canercanbaz.medium.com/cloudflare-ve-nginx-ile-ssl-aktifle%C5%9Ftirme-2207ab7f717b)
-- [Mongoose ile Birden Fazla Sunucudan Veri Almak (Express.js)](https://canercanbaz.medium.com/mongoose-ile-birden-fazla-sunucudan-veri-almak-express-js-bacb96219838)
-- [React Fragment Kullanımı](https://canercanbaz.medium.com/react-fragment-kullan%C4%B1m%C4%B1-c96792eddb58)
-- [IIS 10 ile Node.js (Express) Birlikte Nasıl Çalıştırılır?](https://canercanbaz.medium.com/iis-10-ile-node-js-express-birlikte-nas%C4%B1l-%C3%A7al%C4%B1%C5%9Ft%C4%B1r%C4%B1l%C4%B1r-e58d67969ee6)
-- [Ionic Native Camera — 0 Byte Fotoğraf Kaydetme Sorunu (Çözüm)](https://canercanbaz.medium.com/ionic-native-camera-0-byte-foto%C4%9Fraf-kaydetme-sorunu-%C3%A7%C3%B6z%C3%BCm-7b01be11abf)  
+- EN - [Fix Node.js Puppeteer Launch Problem on M1 Macs with Docker](https://canercanbaz.dev/fix-node-js-puppeteer-docker-image-build-problem-on-m1-macs/)
+- TR - [Cloudflare ve Nginx ile SSL Aktifleştirme](https://canercanbaz.medium.com/cloudflare-ve-nginx-ile-ssl-aktifle%C5%9Ftirme-2207ab7f717b)
+- TR - [Mongoose ile Birden Fazla Sunucudan Veri Almak (Express.js)](https://canercanbaz.medium.com/mongoose-ile-birden-fazla-sunucudan-veri-almak-express-js-bacb96219838)
+- TR - [React Fragment Kullanımı](https://canercanbaz.medium.com/react-fragment-kullan%C4%B1m%C4%B1-c96792eddb58)
+- TR - [IIS 10 ile Node.js (Express) Birlikte Nasıl Çalıştırılır?](https://canercanbaz.medium.com/iis-10-ile-node-js-express-birlikte-nas%C4%B1l-%C3%A7al%C4%B1%C5%9Ft%C4%B1r%C4%B1l%C4%B1r-e58d67969ee6)
+- TR - [Ionic Native Camera — 0 Byte Fotoğraf Kaydetme Sorunu (Çözüm)](https://canercanbaz.medium.com/ionic-native-camera-0-byte-foto%C4%9Fraf-kaydetme-sorunu-%C3%A7%C3%B6z%C3%BCm-7b01be11abf)  
 [...more](https://canercanbaz.medium.com/)
 
 ---
