@@ -35,6 +35,8 @@ Professional experience with the technologies listed in the **toolbox** below.
   - Asynchronous Programming
   - Passport, Bcrpyt, JWT
   - Sequelize ORM
+  - Objection.js ORM
+  - Knex.js Query Builder
   - Mongoose ODM
   - NPM, yarn
   - Testing (Jest, Puppeteer)
@@ -63,6 +65,7 @@ Professional experience with the technologies listed in the **toolbox** below.
 - Databases
   - MySQL
   - SQL Server
+  - PostgreSQL
   - MongoDB
   - Redis  
 
