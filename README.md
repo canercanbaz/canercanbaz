@@ -88,7 +88,6 @@ Also, have experience in submitting mobile applications to app stores such as Go
 
 ### :link: &nbsp;&nbsp;Other Links
 
-- [Personal Blog](https://cnrcnbz.com)
-- [GitLab](https://gitlab.com/canercanbaz)
+- [Personal Website](https://canercanbaz.dev)
 - [Medium](https://canercanbaz.medium.com)
 - [LinkedIn](https://www.linkedin.com/in/cnrcnbz/)
