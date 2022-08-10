@@ -2,7 +2,7 @@
 
 ---
 
-A Full Stack Developer specializing in JavaScript world.  
+I'm a full-stack developer specializing in JavaScript ecosystem.  
 Trying to keep myself up-to-date with modern web technologies.  
 Professional experience with the technologies listed in the **toolbox** below.
 
